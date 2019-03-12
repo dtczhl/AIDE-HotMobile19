@@ -1,4 +1,6 @@
-Android Demo App Code for AIDE
+## Android Demo App Code for AIDE
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Paper published in HotMobile, Santa Cruz, 2019  
 [AIDE: Augmented Onboarding of IoT Devices at Ease](https://www.huanlezhang.com/publication/conference/aide_hotmobile_19/paper.pdf)
